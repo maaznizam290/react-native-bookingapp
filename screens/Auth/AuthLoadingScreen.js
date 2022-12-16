@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { ActivityIndicator, AsyncStorage } from "react-native";
+import { ActivityIndicator } from "react-native";
 
 class AuthLoadingScreen extends Component {
 
